@@ -1,0 +1,22 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "array": "cpp",
+        "type_traits": "cpp",
+        "concepts": "cpp",
+        "exception": "cpp",
+        "ios": "cpp",
+        "istream": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "streambuf": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "xiosbase": "cpp",
+        "xstring": "cpp",
+        "xlocale": "cpp"
+    }
+}
